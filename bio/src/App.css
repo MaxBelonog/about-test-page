@@ -22,11 +22,10 @@
 }
 
 .about {
-  background-color: rgb(212, 130, 30);
-  height: 500px;
+  background-image: url(http://markinternational.info/background-pics-hd/218792595.html);  height: 500px;
   border: 200px;
   font-size: small;
-  margin-bottom: 0pt;
+  margin-bottom: auto;
 
 }
 .about h4 {
@@ -44,7 +43,7 @@
   background-color: silver;
   font-family: courier; 
   font-size: 10pt; 
-  margin-right: 259sspt;
+  margin-right: 259pt;
   margin-top: 0%;
   table-layout: unset;
 }
