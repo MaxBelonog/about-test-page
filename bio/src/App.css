@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.header {
+  background-color: rgb(198, 209, 159);
+  height: 150px;
+  padding: 20px;
+  color: rgb(36, 24, 24);
+  font-size: 20pt;
+}
+
+
+
+.App-intro {
+  font-size: small;
+}
+
+.about {
+  background-color: rgb(212, 130, 30);
+  height: 500px;
+  border: 200px;
+  font-size: small;
+  margin-bottom: 0pt;
+
+}
+.about h4 {
+  text-decoration-color: blue;
+}
+.footer {
+  font: 8px/1.4 "Lucida Grande", Arial, sans-serif;
+  background: rgba(238, 235, 86, 0.486);
+  color: rgb(52, 76, 77);
+  margin-inline-start: 0pt;
+
+}
+.city {
+  line-height: 14pt;
+  background-color: silver;
+  font-family: courier; 
+  font-size: 10pt; 
+  margin-right: 259sspt;
+  margin-top: 0%;
+  table-layout: unset;
+}
+.vid {
+  margin-top: auto;
+  height: 20pt;
+}
+/* 
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
